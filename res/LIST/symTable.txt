@@ -1,8 +1,8 @@
 Q1          1000
-GAMMA       1020
-SSS         100B
+SS          1003
+GAMMA       1019
+SSS         100C
 SSSS        1006
-DELTA       1026
-ALPHA       1023
-PROG1       1000
-BETA        101F
+DELTA       101F
+ALPHA       101C
+BETA        1016
